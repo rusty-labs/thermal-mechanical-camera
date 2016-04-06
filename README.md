@@ -5,19 +5,19 @@ Main characteristics:
  The output bmp image is written to the MicroSD card.
 
 Hardware requirements:
- 1. Metallized mirror - "Survival Solar Lighter" (1$).
- 2. 3D printed mounts for motors (8$)
- 3. Two stepper motors - 28byj-48, these motors will be used as bipolar motors (2$).
- 4. Two motor controllers based on L293D (2$).
+ 1. Metallized mirror - "Survival Solar Lighter".
+ 2. 3D printed mounts for motors
+ 3. Two stepper motors - 28byj-48, these motors will be used as bipolar motors.
+ 4. Two motor controllers based on L293D.
  5. Thermopile sensor:
 
-   a) TS118, needs additional circuitry for amplifying the signal (4$).
+   a) TS118, needs additional circuitry for amplifying the signal.
    
-   b) MLX90614ESF, has circuitry inside so you don't need to create one (5$) (Recommended choice!).
+   b) MLX90614ESF, has circuitry inside so you don't need to create one (Recommended choice!).
    
  6. Amplifying circuitry, needed only if you're going to use TS118.
- 7. Arduino (3$)
- 8. MicroSD card module for arduino (1$)
+ 7. Arduino
+ 8. MicroSD card module for arduino
 
 
 Arduino code:
@@ -28,9 +28,9 @@ Arduino code:
 
 Circuitry for amplifying the signal for TS118:
 
-   a) Based on INA128 (low noise output signal but has more components and more expensive) (3$)
+   a) Based on INA128 (low noise output signal but has more components and more expensive)
    
-   b) Based on LM358 (high noise but has very few components and very cheap) (1$)
+   b) Based on LM358 (higher noise but has very few components and very cheap)
 
 
 The whole project costs around 25$.
