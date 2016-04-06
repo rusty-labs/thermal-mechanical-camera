@@ -5,7 +5,7 @@ Main characteristics:
  The output bmp image is written to the MicroSD card.
 
 Hardware requirements:
- 1. Metallized mirror - "Survival Solar Lighter".
+ 1. Metallized, parabolic mirror - "Survival Solar Lighter".
  2. 3D printed mounts for motors
  3. Two stepper motors - 28byj-48, these motors will be used as bipolar motors.
  4. Two motor controllers based on L293D.
@@ -39,7 +39,8 @@ Description of folders:
 
 1. arduino\scanner - contains arduino code for running the scanning process.
 2. circuits - contains circuits for stepper controller and signal amplification.
-3. sample-images - contains thermal images.
-4. camera-photos - contains photos of already built scanner.
+3. 3d-models - containts 3d models of mounts.
+4. sample-images - contains thermal images.
+5. camera-photos - contains photos of already built scanner.
 
 Work is still in progress....
