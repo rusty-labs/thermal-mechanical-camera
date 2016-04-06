@@ -10,8 +10,11 @@ Hardware requirements:
  3. Two stepper motors - 28byj-48, these motors will be used as bipolar motors (2$).
  4. Two motor controllers based on L293D (2$).
  5. Thermopile sensor:
+
    a) TS118, needs additional circuitry for amplifying the signal (4$).
+   
    b) MLX90614ESF, has circuitry inside so you don't need to create one (5$) (Recommended choice!).
+   
  6. Amplifying circuitry, needed only if you're going to use TS118.
  7. Arduino (3$)
  8. MicroSD card module for arduino (1$)
