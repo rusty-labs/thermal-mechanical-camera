@@ -23,11 +23,13 @@ Hardware requirements:
 Arduino code:
 
    a) For MLX90614ESF, this sensor returns temperature by I2C protocol.
+   
    b) For TS118, this sensor returns analogue signal, which will be converted to temperature afterwards.
 
 Circuitry for amplifying the signal for TS118:
 
    a) Based on INA128 (low noise output signal but has more components and more expensive) (3$)
+   
    b) Based on LM358 (high noise but has very few components and very cheap) (1$)
 
 
