@@ -26,8 +26,6 @@ Arduino code:
    
    b) For TS118, this sensor returns analogue signal, which will be converted to temperature afterwards.
 
-Circuitry for amplifying the signal for TS118:
-   Based on INA128 (low noise output signal but has more components and more expensive)
 
 The whole project costs around 25$.
 
