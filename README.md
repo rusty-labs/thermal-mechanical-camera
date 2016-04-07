@@ -6,7 +6,7 @@ Main characteristics:
 
 Hardware requirements:
  1. Metallized, parabolic mirror - "Survival Solar Lighter".
- 2. 3D printed mounts for motors
+ 2. 3D printed mounts for motors and mirror.
  3. Two stepper motors - 28byj-48, these motors will be used as bipolar motors.
  4. Two motor controllers based on L293D.
  5. Thermopile sensor:
