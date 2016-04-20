@@ -35,6 +35,6 @@ Description of folders:
 2. circuits - contains circuits for stepper controller and signal amplification.
 3. 3d-models - containts 3d models of mounts.
 4. sample-images - contains thermal images.
-5. camera-photos - contains photos of already built scanner.
+5. scanner-photos - contains photos of a scanner.
 
 Work is still in progress....
