@@ -1,8 +1,7 @@
-This projects describes a way how to build cheap and simple thermal mechanical camera.
+Making cheap and simple thermal, mechanical camera.
 
-Main characteristics:
- Making a 400x200 image takes about 30 min. 
- The output bmp image is written to the MicroSD card.
+Specs:
+ 400x200 image takes about 30 min. 
 
 Hardware requirements:
  1. Metallized, parabolic mirror - "Survival Solar Lighter".
@@ -27,7 +26,7 @@ Arduino code:
    b) For TS118, this sensor returns analogue signal, which will be converted to temperature afterwards.
 
 
-The whole project costs around 25$.
+The project costs - 25$.
 
 Description of folders:
 
@@ -36,5 +35,3 @@ Description of folders:
 3. 3d-models - containts 3d models of mounts.
 4. sample-images - contains thermal images.
 5. scanner-photos - contains photos of a scanner.
-
-Work is still in progress....
