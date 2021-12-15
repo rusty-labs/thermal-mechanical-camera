@@ -1,7 +1,7 @@
-Making cheap and simple thermal, mechanical camera.
+Building a cheap and simple thermal, mechanical camera.
 
 Specs:
- 400x200 image takes about 30 min. 
+ Taking 400x200 image takes roughly 30 min. 
 
 Hardware requirements:
  1. Metallized, parabolic mirror - "Survival Solar Lighter".
@@ -26,9 +26,9 @@ Arduino code:
    b) For TS118, this sensor returns analogue signal, which will be converted to temperature afterwards.
 
 
-The project costs - 25$.
+Overall cost - 25$.
 
-Description of folders:
+Folders descriptions:
 
 1. arduino\scanner - contains arduino code for running the scanning process.
 2. circuits - contains circuits for stepper controller and signal amplification.
